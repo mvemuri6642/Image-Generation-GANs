@@ -7,7 +7,7 @@ appdirs==1.4.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 arviz==0.15.1
-astropy==5.2.2
+astropy==5.3.3
 astunparse==1.6.3
 attrs==22.2.0
 audioread==3.0.0
